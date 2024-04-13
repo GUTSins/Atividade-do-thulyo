@@ -1,0 +1,6 @@
+Body {
+    background-color: black;
+}
+carousel-item active {
+    max-width: 100%;
+}
